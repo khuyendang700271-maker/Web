@@ -17,7 +17,7 @@ nav{
   margin: 5px;
 }
 main{
-  background-color: rgb(166, 107, 56);
+  background-color:#f4f4f4;
   padding: 20px;
   margin: 5px;
   border: 10px solid black;
@@ -28,7 +28,7 @@ footer{
   border: 10px solid black;
 }
 p{
-  color: black;
+  color: white;
   font-size: 20px;
   font-family: Arial, sans-serif;
   font-weight: c
