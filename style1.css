@@ -1,0 +1,49 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 120%;
+  background: linear-gradient( to right, skyblue,  rgb(116, 209, 116));
+  margin: 25px;
+  padding: 10px;
+}
+
+header{
+  background-color: rgb(116, 209, 116);
+  padding: 10px;
+  border: 10px solid black;
+}
+nav{
+  background-color: rgb(197, 197, 93);
+  padding: 20px;
+  margin: 5px;
+}
+main{
+  background-color: rgb(166, 107, 56);
+  padding: 20px;
+  margin: 5px;
+  border: 10px solid black;
+}
+footer{
+  background-color: rgb(174, 66, 20);
+  padding: 10px;
+  border: 10px solid black;
+}
+p{
+  color: black;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-weight: c
+  font-style: italic;
+}
+li{
+  display: inline-block;
+    width: 150px;  
+}
+    h1{
+    text-align: center;
+    font-size:50px,georgia,serif;
+    color: rgb(163, 103, 12);
+  }
+  p {
+    line-height: 1.5; /* Khoảng cách giữa các dòng chữ rộng rãi, dễ đọc */
+    color: #333333;
+}
