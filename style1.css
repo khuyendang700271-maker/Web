@@ -31,31 +31,34 @@ footer {
   border: 10px solid black;
 }
 
-a {
-  color: #000000; 
-  text-decoration: underline;
-}
-
-
-footer a {
-  color: #ffffff;
-}
-
-
-p {
+main p {
+  color: #000000;
   font-size: 20px;
   font-family: Arial, sans-serif;
-  font-weight: normal; 
   font-style: italic;
-  color: #ffffff;
   line-height: 1.5;
+}
+
+footer p {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+main a {
+  color: #0000EE;
+}
+
+footer a {
+  color: #FFFF00;
 }
 
 li {
   display: inline-block;
   width: 150px;  
 }
-
 
 h1 {
   text-align: center;
