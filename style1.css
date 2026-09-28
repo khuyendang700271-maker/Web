@@ -32,6 +32,8 @@ p{
   font-family: Arial, sans-serif;
   font-weight: c
   font-style: italic;
+  color: #ffffff;
+  line-height: 1.5;
 }
 li{
   display: inline-block;
@@ -39,10 +41,8 @@ li{
 }
     h1{
     text-align: center;
-    font-size:50px,georgia,serif;
-    color: rgb(113, 112, 111);
+    font-size:50px;
+    font-family: georgia, serif;
+    color: #000000
   }
-  p {
-    line-height: 1.5; /* Khoảng cách giữa các dòng chữ rộng rãi, dễ đọc */
-    color: #ffffff;
-}
+
