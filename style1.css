@@ -79,11 +79,11 @@ li img {
 }
 /* Đổi màu tất cả các đường link nằm trong phần nội dung chính (main) */
 main a {
-    color: #ffffff; /* Màu trắng sẽ nổi bật trên nền nâu đỏ */
-    text-decoration: underline; /* Giữ gạch chân để biết là link */
+    color: white; /* Màu trắng */
+    text-decoration: underline;
 }
 
-/* Đảm bảo link ở chân trang (footer) cũng có màu trắng */
+/* Đổi màu link ở footer */
 footer a {
-    color: #ffffff;
+    color: white;
 }
